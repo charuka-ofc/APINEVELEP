@@ -7,7 +7,7 @@ const { downloadContentFromMessage, proto, generateWAMessageFromContent, prepare
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./libs/exif')
 
 const nvkey = 'TU KEY PUTA'
-const nvurl = 'https://api-nv.ultraplus.click'
+const nvurl = 'https://apinevelep.vercel.app'
 const numBot = '123456789@s.whatsapp.net'
 
 
