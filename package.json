@@ -18,7 +18,7 @@
     "cookie-parser": "^1.4.6",
     "fluent-ffmpeg": "^2.1.2",
     "node-webpmux": "^3.1.7",
-    "node-fetch": "2.x",
+    "node-fetch": "20.12.2",
     "pino": "^8.14.1",
     "socket.io": "^4.7.2",
     "bcryptjs": "^2.4.3",
