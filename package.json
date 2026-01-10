@@ -18,7 +18,7 @@
     "cookie-parser": "^1.4.6",
     "fluent-ffmpeg": "^2.1.2",
     "node-webpmux": "^3.1.7",
-    "node-fetch": "20.12.2",
+    "node-fetch": "2.x",
     "pino": "^8.14.1",
     "socket.io": "^4.7.2",
     "bcryptjs": "^2.4.3",
@@ -38,7 +38,6 @@
     "axios-cookiejar-support": "^6.0.4",
     "puppeteer": "^24.3.1",
     "puppeteer-extra": "^3.3.6",
-        "cheerio": "^1.1.2",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "puppeteer-extra-plugin-recaptcha": "^3.6.8"
   }
